@@ -1,0 +1,94 @@
+.hr-dotted {
+  border-top: 3px dotted blue;
+}
+.hr-dashed {
+  border-top: 3px dashed Red;
+}
+
+header h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+h2 {
+  line-height: -15px;
+}
+Strong {
+  font-size: 225%;
+  color: DarkGreen;
+  font-style: italic;
+}
+body {
+  background-size: cover;
+}
+div.main {
+  margin-top: -25px;
+  float: left;
+}
+.div-middle {
+  float: right;
+}
+header {
+  background-color: YellowGreen;
+  width: 1300px;
+  height: auto;
+  margin-bottom: 0px;
+}
+nav {
+  margin-top: -25px;
+  background-color: darkseagreen;
+}
+nav li {
+  display: inline;
+  margin-left: 180px;
+}
+
+div.box {
+  margin: 0px auto;
+  width: 1300px;
+  background-color: Tan;
+  height: 2000px;
+  margin-bottom: 0px;
+}
+nav ul {
+  font-size: 25px;
+}
+nav li a {
+  color: Wheat;
+}
+nav li a:hover {
+  background-color: Tan;
+  color: white;
+}
+
+aside {
+  margin-top: -19px;
+  float: right;
+  background-color: NavajoWhite;
+}
+div.profile {
+  width: 250px;
+  height: auto;
+}
+div.photo {
+  width: 250px;
+}
+
+div img {
+  width: 250px;
+  height: 200px;
+}
+pre {
+  font-size: 20px;
+  font-style: italic;
+}
+div.downto {
+  background-color: SandyBrown;
+  font-size: 150%;
+}
+div ul {
+  style: square;
+}
+
+.block {
+  background-color: rgb(255, 238, 0);
+}
